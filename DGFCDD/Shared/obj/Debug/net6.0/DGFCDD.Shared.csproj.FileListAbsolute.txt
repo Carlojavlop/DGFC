@@ -1,0 +1,12 @@
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\bin\Debug\net6.0\DGFCDD.Shared.deps.json
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\bin\Debug\net6.0\DGFCDD.Shared.dll
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\bin\Debug\net6.0\DGFCDD.Shared.pdb
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\obj\Debug\net6.0\DGFCDD.Shared.csproj.AssemblyReference.cache
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\obj\Debug\net6.0\DGFCDD.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\obj\Debug\net6.0\DGFCDD.Shared.AssemblyInfoInputs.cache
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\obj\Debug\net6.0\DGFCDD.Shared.AssemblyInfo.cs
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\obj\Debug\net6.0\DGFCDD.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\obj\Debug\net6.0\DGFCDD.Shared.dll
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\obj\Debug\net6.0\refint\DGFCDD.Shared.dll
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\obj\Debug\net6.0\DGFCDD.Shared.pdb
+C:\Users\Javier lopez\source\repos\SOLUCIÒN_DGFCDD\DGFCDD\Shared\obj\Debug\net6.0\ref\DGFCDD.Shared.dll
